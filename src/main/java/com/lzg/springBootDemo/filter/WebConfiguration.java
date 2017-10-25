@@ -6,7 +6,9 @@ import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
 /**
- * Created by 刘增刚 on 2017/8/11
+ * Desc:
+ * @author  liuzg
+ * @date  2017/10/25
  */
 @Configuration
 public class WebConfiguration {
